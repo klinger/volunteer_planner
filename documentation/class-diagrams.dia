@@ -6747,10 +6747,10 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="Standard - Text" version="1" id="O68">
       <dia:attribute name="obj_pos">
-        <dia:point val="-45.7756,158.549"/>
+        <dia:point val="96.9972,88.8013"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-45.7756,157.919;-35.3756,158.709"/>
+        <dia:rectangle val="96.9972,88.1713;107.397,88.9613"/>
       </dia:attribute>
       <dia:attribute name="text">
         <dia:composite type="text">
@@ -6764,7 +6764,7 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
             <dia:real val="0.84666663408279419"/>
           </dia:attribute>
           <dia:attribute name="pos">
-            <dia:point val="-45.7756,158.549"/>
+            <dia:point val="96.9972,88.8013"/>
           </dia:attribute>
           <dia:attribute name="color">
             <dia:color val="#000000"/>
@@ -6780,13 +6780,13 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O69">
       <dia:attribute name="obj_pos">
-        <dia:point val="-37.1016,161.543"/>
+        <dia:point val="105.671,91.7953"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-37.1516,161.493;-30.8466,163.793"/>
+        <dia:rectangle val="105.621,91.7453;111.926,94.0453"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="-37.1016,161.543"/>
+        <dia:point val="105.671,91.7953"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="6.2050000000000001"/>
@@ -6890,13 +6890,13 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O70">
       <dia:attribute name="obj_pos">
-        <dia:point val="-20.436,161.543"/>
+        <dia:point val="122.337,91.7953"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-20.486,161.493;-11.041,165.193"/>
+        <dia:rectangle val="122.287,91.7453;131.732,95.4453"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="-20.436,161.543"/>
+        <dia:point val="122.337,91.7953"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="9.3450000000000006"/>
@@ -7036,19 +7036,19 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="obj_pos">
-        <dia:point val="-30.8966,162.243"/>
+        <dia:point val="111.876,92.4953"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-30.9466,161.443;-20.386,163.743"/>
+        <dia:rectangle val="111.826,91.6953;122.387,93.9953"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="orth_points">
-        <dia:point val="-30.8966,162.243"/>
-        <dia:point val="-25.166,162.243"/>
-        <dia:point val="-25.166,162.943"/>
-        <dia:point val="-20.436,162.943"/>
+        <dia:point val="111.876,92.4953"/>
+        <dia:point val="117.607,92.4953"/>
+        <dia:point val="117.607,93.1953"/>
+        <dia:point val="122.337,93.1953"/>
       </dia:attribute>
       <dia:attribute name="orth_orient">
         <dia:enum val="0"/>
@@ -7071,10 +7071,10 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="Standard - Text" version="1" id="O72">
       <dia:attribute name="obj_pos">
-        <dia:point val="-45.7756,141.718"/>
+        <dia:point val="96.9972,71.9703"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-45.7756,141.088;-34.6356,141.878"/>
+        <dia:rectangle val="96.9972,71.3403;108.137,72.1303"/>
       </dia:attribute>
       <dia:attribute name="text">
         <dia:composite type="text">
@@ -7088,7 +7088,7 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
             <dia:real val="0.84666663408279419"/>
           </dia:attribute>
           <dia:attribute name="pos">
-            <dia:point val="-45.7756,141.718"/>
+            <dia:point val="96.9972,71.9703"/>
           </dia:attribute>
           <dia:attribute name="color">
             <dia:color val="#000000"/>
@@ -7104,13 +7104,13 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O73">
       <dia:attribute name="obj_pos">
-        <dia:point val="-36.1846,144.634"/>
+        <dia:point val="106.588,74.8863"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-36.2346,144.584;-30.6296,150.684"/>
+        <dia:rectangle val="106.538,74.8363;112.143,80.9363"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="-36.1846,144.634"/>
+        <dia:point val="106.588,74.8863"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="5.5049999999999999"/>
@@ -7330,13 +7330,13 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O74">
       <dia:attribute name="obj_pos">
-        <dia:point val="-18.2068,144.254"/>
+        <dia:point val="124.566,74.5063"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-18.2568,144.204;-13.8743,148.604"/>
+        <dia:rectangle val="124.516,74.4563;128.899,78.8563"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="-18.2068,144.254"/>
+        <dia:point val="124.566,74.5063"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="4.2825000000000006"/>
@@ -7476,19 +7476,19 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="obj_pos">
-        <dia:point val="-30.6796,145.334"/>
+        <dia:point val="112.093,75.5863"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-30.7296,144.534;-18.2071,147.204"/>
+        <dia:rectangle val="112.043,74.7863;124.566,77.4563"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="orth_points">
-        <dia:point val="-30.6796,145.334"/>
-        <dia:point val="-24.8433,145.334"/>
-        <dia:point val="-24.8433,146.404"/>
-        <dia:point val="-18.2571,146.404"/>
+        <dia:point val="112.093,75.5863"/>
+        <dia:point val="117.929,75.5863"/>
+        <dia:point val="117.929,76.6563"/>
+        <dia:point val="124.516,76.6563"/>
       </dia:attribute>
       <dia:attribute name="orth_orient">
         <dia:enum val="0"/>
@@ -7511,10 +7511,10 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="Standard - Text" version="1" id="O76">
       <dia:attribute name="obj_pos">
-        <dia:point val="-45.7558,170.806"/>
+        <dia:point val="97.017,101.058"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-45.7558,170.176;-35.4308,170.966"/>
+        <dia:rectangle val="97.017,100.428;107.342,101.218"/>
       </dia:attribute>
       <dia:attribute name="text">
         <dia:composite type="text">
@@ -7528,7 +7528,7 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
             <dia:real val="0.84666663408279419"/>
           </dia:attribute>
           <dia:attribute name="pos">
-            <dia:point val="-45.7558,170.806"/>
+            <dia:point val="97.017,101.058"/>
           </dia:attribute>
           <dia:attribute name="color">
             <dia:color val="#000000"/>
@@ -7544,13 +7544,13 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O77">
       <dia:attribute name="obj_pos">
-        <dia:point val="-25.3807,179.405"/>
+        <dia:point val="117.392,109.657"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-25.4307,179.355;-20.8657,183.755"/>
+        <dia:rectangle val="117.342,109.607;121.907,114.007"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="-25.3807,179.405"/>
+        <dia:point val="117.392,109.657"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="4.4649999999999999"/>
@@ -7654,13 +7654,13 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O78">
       <dia:attribute name="obj_pos">
-        <dia:point val="-38.9355,174.34"/>
+        <dia:point val="103.837,104.592"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-38.9855,174.29;-29.743,177.19"/>
+        <dia:rectangle val="103.787,104.542;113.03,107.442"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="-38.9355,174.34"/>
+        <dia:point val="103.837,104.592"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="9.1425000000000001"/>
@@ -7824,19 +7824,19 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="obj_pos">
-        <dia:point val="-38.9355,175.04"/>
+        <dia:point val="103.837,105.292"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-45.05,174.24;-25.3307,181.955"/>
+        <dia:rectangle val="97.7228,104.492;117.442,112.207"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="orth_points">
-        <dia:point val="-38.9355,175.04"/>
-        <dia:point val="-45,175.04"/>
-        <dia:point val="-45,181.155"/>
-        <dia:point val="-25.3807,181.155"/>
+        <dia:point val="103.837,105.292"/>
+        <dia:point val="97.7728,105.292"/>
+        <dia:point val="97.7728,111.407"/>
+        <dia:point val="117.392,111.407"/>
       </dia:attribute>
       <dia:attribute name="orth_orient">
         <dia:enum val="0"/>
@@ -7859,13 +7859,13 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O80">
       <dia:attribute name="obj_pos">
-        <dia:point val="-17.917,174.34"/>
+        <dia:point val="124.856,104.592"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-17.967,174.29;-8.37198,178.79"/>
+        <dia:rectangle val="124.806,104.542;134.401,109.042"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="-17.917,174.34"/>
+        <dia:point val="124.856,104.592"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="9.495000000000001"/>
@@ -8075,19 +8075,19 @@ misspelled (breadcrump instead of breadcrumb)#</dia:string>
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="obj_pos">
-        <dia:point val="-8.42198,175.04"/>
+        <dia:point val="134.351,105.292"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-20.9657,174.24;-1.9,181.955"/>
+        <dia:rectangle val="121.807,104.492;140.873,112.207"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="orth_points">
-        <dia:point val="-8.42198,175.04"/>
-        <dia:point val="-2,175.04"/>
-        <dia:point val="-2,181.155"/>
-        <dia:point val="-20.9157,181.155"/>
+        <dia:point val="134.351,105.292"/>
+        <dia:point val="140.773,105.292"/>
+        <dia:point val="140.773,111.407"/>
+        <dia:point val="121.857,111.407"/>
       </dia:attribute>
       <dia:attribute name="orth_orient">
         <dia:enum val="0"/>
