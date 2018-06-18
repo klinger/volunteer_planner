@@ -8,4 +8,4 @@ pytest-cov==2.5.1
 pytest-django==3.3.0
 pytest==3.6.1
 transifex-client==0.13.2
-whitenoise==2.0.4
+whitenoise==3.3.1
