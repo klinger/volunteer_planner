@@ -1,5 +1,5 @@
 argparse==1.4.0
-behave==1.2.5
+behave==1.2.6
 decorator==4.0.2
 django-appconf==0.6
 django-ckeditor==4.5.0
