@@ -18,7 +18,7 @@ python-dateutil==2.7.3
 python-memcached==1.59
 simplegeneric==0.8.1
 six==1.11.0
-selenium==2.47.3
+selenium==3.12.0
 sqlparse==0.1.16
 traitlets==4.0.0
 xlwt==1.0.0
