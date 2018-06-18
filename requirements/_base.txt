@@ -11,7 +11,7 @@ djangocms-admin-style==1.2.8
 ipdb==0.11
 ipython-genutils==0.2.0
 ipython==6.4.0
-path.py==7.6.1
+path.py==11.0.1
 pexpect==3.3
 pickleshare==0.5
 python-dateutil==2.4.2
