@@ -2,7 +2,7 @@ argparse==1.4.0
 behave==1.2.6
 decorator==4.2.1
 django-appconf==1.0.2
-django-ckeditor==4.5.0
+django-ckeditor==5.5.0
 django-compressor==1.4
 django-extensions==1.5.7
 django-registration-redux==1.2
